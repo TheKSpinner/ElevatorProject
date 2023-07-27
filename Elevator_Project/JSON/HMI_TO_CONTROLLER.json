@@ -1,0 +1,46 @@
+{
+    "userSelect":[
+        {
+            "user": "normal"
+        }
+    ],
+    "levels":[
+        {
+            "level": "1",
+            "reqUp": "0",
+            "reqDown": "0"
+        },
+        {
+            "level": "2",
+            "reqUp": "0",
+            "reqDown": "0"
+        },
+        {
+            "level": "3",
+            "reqUp": "0",
+            "reqDown": "0"
+        },
+        {
+            "level": "4",
+            "reqUp": "0",
+            "reqDown": "0"
+        }
+    ],
+    "cabin":[
+        {
+            "reqLevel1":"0",
+            "reqLevel2":"0",
+            "reqLevel3":"0",
+            "reqLevel4":"0",
+            "reqEmergencyStop":"0"
+        }
+    ],
+    "supervisor":[
+        {
+            "reqReset":"0",
+            "reqV1":"0",
+            "reqV2":"0",
+            "reqDoor":"0"
+        }
+    ]
+}

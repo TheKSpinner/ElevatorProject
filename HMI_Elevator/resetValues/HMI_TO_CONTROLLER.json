@@ -1,0 +1,16 @@
+{
+
+    "reqLevel1":"0",
+    "reqLevel2":"0",
+    "reqLevel3":"0",
+    "reqLevel4":"0",
+
+    "reqEmergencyStop":"0",
+    "reqReset":"0",
+
+    "reqV1":"0",
+    "reqV2":"0",
+    
+    "reqDoorFine":"0",
+    "reqDoor":"0"
+}

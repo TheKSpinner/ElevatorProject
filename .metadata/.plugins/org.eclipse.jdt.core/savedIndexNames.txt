@@ -1,0 +1,10 @@
+INDEX VERSION 1.132+C:\Users\alexa\Desktop\AC IS\Cursuri Seminare Laboratoare\An III\Sem II Konstanz\SysArch\SysArch_Elevator\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2779939405.index
+3123807903.index
+3812541745.index
+2378764413.index
+2741613550.index
+738452847.index
+4152338735.index
+4174333569.index
